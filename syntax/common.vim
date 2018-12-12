@@ -41,6 +41,7 @@ runtime syntax/basic/class.vim
 runtime syntax/basic/cluster.vim
 runtime syntax/basic/function.vim
 runtime syntax/basic/decorator.vim
+runtime syntax/htmlinstring.vim
 
 if exists("did_typescript_hilink")
   HiLink typescriptReserved             Error
